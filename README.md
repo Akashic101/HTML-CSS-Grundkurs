@@ -6,3 +6,6 @@ https://github.com/Akashic101/HTML-CSS-Grundkurs/commit/765c8fd2a7742d3768a1da1a
 
 ### Part 11: Die erste Website: Das "Hallo Welt" in HTML
 https://github.com/Akashic101/HTML-CSS-Grundkurs/commit/c82de975e6e5bb886457df49e2e155f9e63fe1ae
+
+## Part 12: Textstrukturierung I: Überschriften, Paragraphen & Zeilenumbrüche
+https://github.com/Akashic101/HTML-CSS-Grundkurs/commit/f0895b6332a02530b74b79f8fd9d77cdb738f251
