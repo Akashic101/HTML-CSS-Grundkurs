@@ -14,3 +14,5 @@ https://github.com/Akashic101/HTML-CSS-Grundkurs/commit/f0895b6332a02530b74b79f8
 https://github.com/Akashic101/HTML-CSS-Grundkurs/commit/d61a107ffbe34225263b8d36c8ed57f396305c89
 
 ## Sektion 4: Basics: Einführung in CSS
+### Part 15: Inline CSS
+https://github.com/Akashic101/HTML-CSS-Grundkurs/commit/2e1e9183de9adba2f2bb46fe1001fde5ac10a1cc
