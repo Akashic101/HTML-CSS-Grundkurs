@@ -1,0 +1,8 @@
+# HTML-CSS-Grundkurs
+
+## Sektion 3: Basics: Einführung in HTML
+### Part 10: Das HTML-Grundgerüst
+https://github.com/Akashic101/HTML-CSS-Grundkurs/commit/765c8fd2a7742d3768a1da1a039d4b6a8ee3af82
+
+### Part 11: Die erste Website: Das "Hallo Welt" in HTML
+https://github.com/Akashic101/HTML-CSS-Grundkurs/commit/c82de975e6e5bb886457df49e2e155f9e63fe1ae
